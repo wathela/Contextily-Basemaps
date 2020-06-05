@@ -1,2 +1,2 @@
 # Contextily-Basemaps
-![alt text](data/basemaps.png)
+![alt text](https://github.com/wathela/Contextily-Basemaps/blob/master/basemaps.png)
