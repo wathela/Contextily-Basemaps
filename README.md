@@ -1,2 +1,2 @@
 # Contextily-Basemaps
-![alt text](http://url/to/basemaps.png)
+![alt text](data/basemaps.png)
